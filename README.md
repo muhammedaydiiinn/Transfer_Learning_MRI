@@ -1,7 +1,10 @@
 # Beyin MR Görüntüleri ile Transfer Learning Kullanarak Tümör Sınıflandırma
 
 Bu projede, beyin MR görüntülerini kullanarak tümör sınıflandırma görevini ele alıyoruz. Amacımız, önceden eğitilmiş bir VGG16 modelini kullanarak, bu görüntüler üzerinde derin öğrenme uygulayarak beyin tümörlerini sınıflandırmak. Ayrıca, veri setini daha çeşitli ve sağlam hale getirmek için veri augmentasyonu kullanılacaktır.
+## Veri Seti
 
+**Veri Kaynağı**: Kullandığımız veri seti, [Brain Tumor Classification](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) indirildi.
+**Kaggle Projem** : [Bu linkten ulaşabilirsiniz.](https://www.kaggle.com/code/muhammedaydin/transfer-learning-mri)
 ## Adım 1: Veri Keşfi ve Analizi
 Başlangıç olarak, kullanılacak veri setini inceledik. Veri setinin yapısı, boyutları ve içeriği hakkında bilgi edindik.
 
